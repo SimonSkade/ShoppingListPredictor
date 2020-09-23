@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49.613" height="47" viewBox="0 0 49.613 47">
+  <g id="Gruppe_41" data-name="Gruppe 41" transform="translate(-37.387 -1023)">
+    <g id="Pfad_124" data-name="Pfad 124" transform="translate(55 1023)" fill="none">
+      <path d="M10,0H22A10,10,0,0,1,32,10V37A10,10,0,0,1,22,47H10A10,10,0,0,1,0,37V10A10,10,0,0,1,10,0Z" stroke="none"/>
+      <path d="M 10 3 C 6.140190124511719 3 3 6.140190124511719 3 10 L 3 37 C 3 40.85980987548828 6.140190124511719 44 10 44 L 22 44 C 25.85980987548828 44 29 40.85980987548828 29 37 L 29 10 C 29 6.140190124511719 25.85980987548828 3 22 3 L 10 3 M 10 0 L 22 0 C 27.52285003662109 0 32 4.477149963378906 32 10 L 32 37 C 32 42.52285003662109 27.52285003662109 47 22 47 L 10 47 C 4.477149963378906 47 0 42.52285003662109 0 37 L 0 10 C 0 4.477149963378906 4.477149963378906 0 10 0 Z" stroke="none" fill="#4866e6"/>
+    </g>
+    <line id="Linie_32" data-name="Linie 32" x2="32" transform="translate(39.5 1046.5)" fill="none" stroke="#4866e6" stroke-linecap="round" stroke-width="3"/>
+    <line id="Linie_33" data-name="Linie 33" y1="6" x2="5" transform="translate(39.5 1040.5)" fill="none" stroke="#4866e6" stroke-linecap="round" stroke-width="3"/>
+    <line id="Linie_34" data-name="Linie 34" x2="5" y2="6" transform="translate(39.5 1046.5)" fill="none" stroke="#4866e6" stroke-linecap="round" stroke-width="3"/>
+  </g>
+</svg>

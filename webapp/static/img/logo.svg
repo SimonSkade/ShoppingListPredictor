@@ -1,0 +1,49 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="443" height="118" viewBox="0 0 443 118">
+  <defs>
+    <filter id="GroceryListAI" x="120" y="18" width="323" height="76" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_56" x="0" y="0" width="118" height="118" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Gruppe_35" data-name="Gruppe 35" transform="translate(-42 -22)">
+    <g transform="matrix(1, 0, 0, 1, 42, 22)" filter="url(#GroceryListAI)">
+      <text id="GroceryListAI-2" data-name="GroceryListAI" transform="translate(129 70)" fill="#3f3d56" font-size="50" font-family="Roboto" font-weight="500"><tspan x="0" y="0">GroceryListAI</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 42, 22)" filter="url(#Ellipse_56)">
+      <circle id="Ellipse_56-2" data-name="Ellipse 56" cx="50" cy="50" r="50" transform="translate(9 6)" fill="#4866e6"/>
+    </g>
+    <line id="Linie_13" data-name="Linie 13" x2="57" y2="10" transform="translate(73.5 59.5)" fill="none" stroke="#fff" stroke-width="1" opacity="0.33"/>
+    <g id="Gruppe_24" data-name="Gruppe 24" transform="translate(3.238 6)">
+      <rect id="Rechteck_128" data-name="Rechteck 128" width="33" height="55" rx="3" transform="translate(81.762 45)" fill="#fff"/>
+      <line id="Linie_7" data-name="Linie 7" x2="26.042" transform="translate(84.94 51.3)" fill="none" stroke="#4866e6" stroke-width="1"/>
+      <line id="Linie_8" data-name="Linie 8" x2="20.161" transform="translate(84.94 54.661)" fill="none" stroke="#4866e6" stroke-width="1"/>
+      <line id="Linie_9" data-name="Linie 9" x2="26.042" transform="translate(84.94 58.021)" fill="none" stroke="#4866e6" stroke-width="1"/>
+      <line id="Linie_10" data-name="Linie 10" x2="15.961" transform="translate(84.94 61.381)" fill="none" stroke="#4866e6" stroke-width="1"/>
+      <line id="Linie_11" data-name="Linie 11" x2="22.682" transform="translate(84.94 64.741)" fill="none" stroke="#4866e6" stroke-width="1"/>
+    </g>
+    <g id="Ellipse_57" data-name="Ellipse 57" transform="translate(64 54)" fill="none" stroke="#fff" stroke-width="2">
+      <circle cx="5" cy="5" r="5" stroke="none"/>
+      <circle cx="5" cy="5" r="4" fill="none"/>
+    </g>
+    <g id="Ellipse_58" data-name="Ellipse 58" transform="translate(72 101)" fill="none" stroke="#fff" stroke-width="2">
+      <circle cx="5" cy="5" r="5" stroke="none"/>
+      <circle cx="5" cy="5" r="4" fill="none"/>
+    </g>
+    <g id="Ellipse_59" data-name="Ellipse 59" transform="translate(130 65)" fill="none" stroke="#fff" stroke-width="2">
+      <circle cx="5" cy="5" r="5" stroke="none"/>
+      <circle cx="5" cy="5" r="4" fill="none"/>
+    </g>
+    <line id="Linie_12" data-name="Linie 12" x2="7" y2="39" transform="translate(69.5 62.5)" fill="none" stroke="#fff" stroke-width="1" opacity="0.33"/>
+  </g>
+</svg>

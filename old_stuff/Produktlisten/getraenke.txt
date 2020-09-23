@@ -1,0 +1,13 @@
+Apfelsaft
+Bier
+Bionade
+Champagner
+Coca Cola
+Erdbeersaft
+Fanta
+Limonade
+Orangensaft
+Sprite
+Sprudelwasser
+Stilles Wasser
+Wein

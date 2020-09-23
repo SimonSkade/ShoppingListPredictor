@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html style="height: 100%;">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"> <!--funtkioniert nicht-->
+	<title>Grocery List Predictor</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+	<html style="font-family: 'Titillium Web'; color: #3F3D56">
+    <!-- <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet"> -->
+    <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;1,200;1,300;1,400;1,600;1,700&display=swap" rel="stylesheet">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css" />
+    <link rel="icon" type="image/png" href="{{ url_for('static', filename='img/favicon.png') }}"/>
+    <script src="https://kit.fontawesome.com/e0a3cccccc.js" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="{{ url_for('static', filename='js/particles.min.js') }}"></script>
+
+</head>
+<div class="sidebar" style="background-color:#4866E6; height: 100%;width: 12%;left:0;position:fixed;top:0">
+    <div style="height: 90px;background-color: #354baf;width: 100%;display: flex;align-items: center;justify-content: center;">
+        <h3 style="color: white;font-size: 20px;">GroceryListPredictor</h3>
+    </div>
+    <!-- <a href="{{ url_for('dashboardOverview') }}" id="top-bar-overview">
+    <div class="w3-container">
+        <div class="w3-col" style="width: 50px;display: flex;justify-content: center;">
+            <i class="fas fa-chart-pie" style="font-size:25px;text-align: center;"></i>
+        </div>
+        <div class="w3-rest">
+            <span style="margin-left: 20px;">Overview</span>
+        </div>
+    </div>
+    </a> -->
+    <a href="{{ url_for('groceryLists') }}" id="top-bar-lists">
+        <div class="w3-container">
+            <div class="w3-col" style="width: 50px;display: flex;justify-content: center;">
+                <i class="fas fa-cart-plus" style="font-size:25px;text-align: center;"></i>
+            </div>
+            <div class="w3-rest">
+                <span style="margin-left: 20px;">Lists</span>
+            </div>
+        </div>   
+    </a>
+    <a href="{{ url_for('account') }}" id="top-bar-settings">
+        <div class="w3-container">
+            <div class="w3-col" style="width: 50px;display: flex;justify-content: center;">
+                <i class="fas fa-user" style="font-size:25px;text-align: center;"></i>
+            </div>
+            <div class="w3-rest">
+                <span style="margin-left: 20px;">Account</span>
+            </div>
+        </div>   
+    </a>
+    <a href="/logout" id="top-bar-settings" style="position: fixed;bottom: 0;margin-bottom: 15px;">
+        <div class="w3-container">
+            <div class="w3-col" style="width: 50px;display: flex;justify-content: center;">
+                <i class="fas fa-sign-out-alt" style="font-size:25px;text-align: center;"></i>
+            </div>
+            <div class="w3-rest">
+                <span style="margin-left: 20px;">Log out</span>
+            </div>
+        </div>   
+    </a>
+</div>  
+
+<div class="w3-container" style="background-color: white;height: 90px;width:88%;box-shadow: 0px 10px 10px #00000011;position: fixed;top: 0;">
+    <div style="float: left;margin-right: 40px;">
+        <div class="profilePicture">
+        </div>
+        <h3 class="name-label">Hey, <span style="color: #4866E6;">{{username}}</span>!</h2>
+    </div>
+</div>
+
+
+<body  style="margin-left:12%;height: calc(100% - 90px);width: 88%;background-color: #F9F9F9;margin-top: 90px;overflow: auto;">
+
+    {% with messages = get_flashed_messages(with_categories=true) %}
+        {% for category, message in messages %}
+            <div class="alert alert-{{ category }}" style="position:fixed;width: 30%;height:40px;margin-left: 1.5%;margin-right: 5%;margin-top: 30px;display: flex;align-items: center;">
+                <span>{{ message }}</span>
+            </div>
+        {% endfor %}
+    {% endwith %}
+    <div style="height: 10%" class="w3-hide-large">
+        <img src="{{ url_for('static', filename='img/GLPLogo.png') }}" style="width: 25%;margin-top: 20px;margin-left: 20px">
+    </div>
+    {% block body %}{% endblock %}
+
+</body>
+<style>
+    .profilePicture {
+        background-image: url("{{profilePic}}");
+        width: 50px;
+        height: 50px;
+    }
+    .sidebar a {
+        padding: 40px 0px 6px 0px;
+        text-decoration: none;
+        font-size: 17px;
+        color: #ffffff;
+        display: block;
+    }
+    ::-webkit-scrollbar {
+        width: 7px;
+    }
+    ::-webkit-scrollbar-track {
+        background: #f1f1f1;
+    }
+    ::-webkit-scrollbar-thumb {
+        background: #4865e698;
+    }
+
+</style>
+
+</html>

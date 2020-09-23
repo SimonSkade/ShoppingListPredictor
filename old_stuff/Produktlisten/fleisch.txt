@@ -1,0 +1,10 @@
+Geflügelfleisch
+Hasenfleisch
+Kalbfleisch
+Kaninchenfleisch
+Lammfleisch
+Pferdefleisch
+Rindfleisch
+Schaffleisch
+Schweinefleisch
+Ziegenfleisch

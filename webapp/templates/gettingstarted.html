@@ -1,0 +1,173 @@
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+<html style="font-family: 'Roboto'; color: #3F3D56">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css" />
+
+<div class="w3-row w3-hide-medium w3-hide-small" style="height: 80px;background-color: rgba(255,255,255,0.9);width: 100%;z-index: 10;">
+    <div class="w3-half" style="height: 100%;display: flex;align-items: center;justify-content:flex-start;" class="w3-hide-medium w3-hide-small">
+        <img src="{{ url_for('static', filename='img/GLPLogo.png') }}" style="height: 60px;margin-left: 5%;">
+    </div>
+    <div class="w3-half" style="height:100%;display: flex;align-items: center;justify-content:flex-end;">
+        <ul style="margin-right: 5%;color: #4866E6">
+            <li><a href="/gettingstarted">Get started</a></li>
+            <li><a href="/#about">About</a></li>
+            <li><a href="/#how">How it works</a></li>
+            <li><a href="/#vision">Vision</a></li>
+            <li><a href="/#home">Home</a></li>
+        </ul>
+    </div>
+</div>
+
+<div style="height: 10%" class="w3-hide-large">
+    <img src="{{ url_for('static', filename='img/GLPLogo.png') }}" style="width: 25%;margin-top: 20px;margin-left: 20px">
+</div>
+
+<div class="w3-hide-large" style="height: 100%">
+    <div class="mobilewarning" style="height: 50%;background-position: center;background-repeat: no-repeat;background-size: contain;margin-left: 10%;margin-right: 10%"></div>
+    <h2 style="margin-left: 10%;margin-right: 10%;margin-top: 100px;">It seems that your display is to small to display this site correctly. <br>We are working on a mobile site, but until then, please use a computer or a tablet.</h2>
+
+</div>
+
+<div class="spaceLine" style="height: 80%;">
+
+<div class="w3-container" style="height: 50%;">
+    <div class="w3-half" style="display: flex;align-items: center;justify-content: center;height: 100%;">
+        <h2 style="text-align: center;font-size: 3vw;text-shadow: 2px 2px 6px rgba(0,0,0,0.2);">Join us today!</h2>
+    </div>
+    <div class="w3-half" style="display: flex;align-items: center;justify-content: center;height: 100%;">
+        <h2 style="text-align: center;font-size: 3vw;text-shadow: 2px 2px 6px rgba(0,0,0,0.2);">Sign in!</h2>
+    </div>
+</div>
+
+
+<div class="w3-container" style="height: 50%;">
+    <div class="w3-half signup" >
+        <div style="height: 30%;display: flex;align-items: center;justify-content: center;">
+        <div class="container mt-5 mb-5">
+            
+            <div class="col-lg-6 center-form">
+                <form method="POST" action="">
+                    {{ rform.hidden_tag() }}
+                    <fieldset class="form-group">
+                    <div class="w3-container">
+                        <div class="w3-half" style="padding-right: 10px;">
+                            {{ rform.username.label(class="form-control-label") }}
+        
+                            {% if rform.username.errors %}
+                                {{ rform.username(class="form-control form-control-lg is-invalid") }}
+                                <div class="invalid-feedback">
+                                    {% for error in rform.username.errors %}
+                                        <span>{{ error }}</span>
+                                    {% endfor %}
+                                </div>
+                            {% else %}
+                                {{ rform.username(class="form-control form-control-lg") }}
+                            {% endif %}
+                        </div>
+                        <div class="w3-half" style="padding-right: 10px;">
+                            {{ rform.email.label(class="form-control-label") }}
+                            {% if rform.email.errors %}
+                                {{ rform.email(class="form-control form-control-lg is-invalid") }}
+                                <div class="emailinvalid-feedback">
+                                    {% for error in rform.email.errors %}
+                                        <span>{{ error }}</span>
+                                    {% endfor %}
+                                </div>
+                            {% else %}
+                                {{ rform.email(class="form-control form-control-lg") }}
+                            {% endif %}
+                        </div>
+                    </div>
+                    <div class="w3-container">
+                        <div class="w3-half" style="padding-right: 10px;">
+                            {{ rform.password.label(class="form-control-label") }}
+                            {% if rform.password.errors %}
+                                {{ rform.password(class="form-control form-control-lg is-invalid") }}
+                                <div class="invalid-feedback">
+                                    {% for error in rform.password.errors %}
+                                        <span>{{ error }}</span>
+                                    {% endfor %}
+                                </div>
+                            {% else %}
+                                {{ rform.password(class="form-control form-control-lg") }}
+                            {% endif %}
+                        </div>
+                        <div class="w3-half" style="padding-right: 10px;">
+                            {{ rform.confirm_password.label(class="form-control-label") }}
+                            {% if rform.confirm_password.errors %}
+                                {{ rform.confirm_password(class="form-control form-control-lg is-invalid") }}
+                                <div class="invalid-feedback">
+                                    {% for error in rform.confirm_password.errors %}
+                                        <span>{{ error }}</span>
+                                    {% endfor %}
+                                </div>
+                            {% else %}
+                                {{ rform.confirm_password(class="form-control form-control-lg") }}
+                            {% endif %}
+                        </div>
+                        {{ rform.submit(class="btn btn-outline-info") }}
+                    </div>
+                    
+                        
+
+                    
+                    </fieldset>
+                </form>
+            </div>
+        </div>
+    </div>
+    </div>
+    <div class="w3-half signin">
+        <div style="height: 30%;display: flex;align-items: center;justify-content: center;">
+        <div class="container mt-5 mb-5">
+            <div class="col-lg-6 center-form">
+                <form method="POST" action="">
+                    {{ lform.hidden_tag() }}
+                    <fieldset class="form-group">
+                        <div class="">
+                            {{ lform.email.label(class="form-control-label") }}
+                            {% if lform.email.errors %}
+                                {{ lform.email(class="form-control form-control-lg is-invalid") }}
+                                <div class="emailinvalid-feedback">
+                                    {% for error in lform.email.errors %}
+                                        <span>{{ error }}</span>
+                                    {% endfor %}
+                                </div>
+                            {% else %}
+                                {{ lform.email(class="form-control form-control-lg") }}
+                            {% endif %}
+                        </div>
+                        <div class="">
+                            {{ lform.password.label(class="form-control-label") }}
+                            {% if lform.password.errors %}
+                                {{ lform.password(class="form-control form-control-lg is-invalid") }}
+                                <div class="invalid-feedback">
+                                    {% for error in lform.password.errors %}
+                                        <span>{{ error }}</span>
+                                    {% endfor %}
+                                </div>
+                            {% else %}
+                                {{ lform.password(class="form-control form-control-lg") }}
+                            {% endif %}
+                        </div>
+                        <!--<div class="form-check">
+                            {{ lform.remember(class="form-check-input") }}
+                            {{ lform.remember.label() }}
+                        </div>-->
+                        {{ lform.submit(class="btn btn-outline-info") }}
+                    </fieldset>
+                    
+                        
+                </form>
+            
+            </div>
+        </div>
+
+    </div>
+    </div>
+</div>
+</div>
+
+</html>

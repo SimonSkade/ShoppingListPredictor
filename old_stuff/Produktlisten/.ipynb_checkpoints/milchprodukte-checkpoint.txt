@@ -1,0 +1,32 @@
+Buttermilch
+Crème fraîche
+Dickmilch
+Sahnedickmilch
+Joghurt
+Kefir
+Molke
+Saure Sahne
+Schmand
+Trinksauermilch
+Milchmischerzeugnis
+Fruchtjoghurt
+Fruchtkefir
+Milchmischgetränk
+Clotted Cream, Streichrahm, Öröm
+Sahne
+Crème double
+Kaffeesahne
+Schlagsahne
+Sahneerzeugnis
+Milchfetterzeugnis
+Butter
+Sauerrahmbutter
+Süßrahmbutter
+Butterschmalz
+Milchstreichfett
+Dauermilcherzeugnis
+Milchpulver
+Molkenpulver
+Sahnepulver
+Käse
+Quark

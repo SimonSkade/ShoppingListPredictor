@@ -1,0 +1,41 @@
+
+{% extends "dashboard/base.html" %}
+{% block body %}
+<div style="height: 88%;display: flex;justify-content: center;align-items: center;width: 100%;">
+        <div style="width: 90%;">
+    <div class="w3-row" style="margin-top: 100px;width: 100%;display: flex;justify-content: center;">
+        <div class="w3-third w3-container" style="background-color: white;border-radius: 8px;box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.103);margin-left: 25px;margin-right: 25px;width: 33%; ">
+            <h1 id="receiptsScanned" style="text-align: center;font-size: 5vw;font-weight: 500;color: #4866E6;">0</h1>
+            <h2 style="text-align: center; font-size: 2vw;">Receipts scanned</h2>
+        </div>
+        <div class="w3-third w3-container" style="background-color: white;border-radius: 8px;box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.103);margin-left: 25px;margin-right: 25px;width: 33%; ">
+            <h1 id="numWeeks" style="text-align: center;font-size: 5vw;font-weight: 500;color: #4866E6;">0</h1>
+            <h2 style="text-align: center; font-size: 2vw;margin-bottom: 40px;">Weeks passed</h2>
+        </div>
+        <div class="w3-third w3-container" style="background-color: white;border-radius: 8px;box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.103);margin-left: 25px;margin-right: 25px;width: 33%; ">
+            <h1 id="listGenerated" style="text-align: center; font-size: 5vw;font-weight: 500;color: #4866E6;">0</h1>
+            <h2 style="text-align: center; font-size: 2vw;">Lists generated</h2>
+        </div>
+</div>
+    <div style="background-color: white;display: flex;align-items: center;justify-content: center;border-radius: 8px;box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.103);margin-left: 25px;margin-right: 25px;margin-top: 50px;">
+        <h2 style="font-size: 3vw;margin-top: 50px;margin-bottom: 50px;">Current model accuracy: <span style="color: #4866E6;">{{accuracy}}</span>%</h2>
+    </div>
+</div>
+
+</div>
+
+<script type="module">
+    import { CountUp } from "{{ url_for('static', filename='js/countUp.js') }}";
+    window.onload = function() {
+        let receipts = new CountUp('receiptsScanned', "{{numReceipts}}").start()
+        let weeks = new CountUp('numWeeks', "{{numWeeks}}").start()
+        let list = new CountUp('listGenerated', "{{numLists}}").start()
+    }
+</script>
+
+
+{% endblock body %}
+
+
+
+

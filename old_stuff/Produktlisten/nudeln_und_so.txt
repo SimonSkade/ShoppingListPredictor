@@ -1,0 +1,13 @@
+Anellini
+Capelline
+Farfalline
+Cannelloni
+Rigatoni
+Farfalle
+Fusilli
+Gnocchi
+Lasagne
+Penne
+Ravioli
+Spaghetti
+Tortellini

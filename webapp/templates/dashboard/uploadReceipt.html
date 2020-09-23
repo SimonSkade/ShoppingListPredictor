@@ -1,0 +1,16 @@
+{% extends "dashboard/base.html" %}
+{% block body %}
+<div class="w3-quarter" style="height: 100%;">
+    {{ form.hidden_tag() }}
+    {% if form.receipt_images.errors %}
+        {{ form.receipt_images(class="form-control form-control-lg is-invalid") }}
+        <div class="invalid-feedback">
+            {% for error in form.receipt_images.errors %}
+                <span>{{ error }}</span>
+            {% endfor %}
+        </div>
+    {% else %}
+        {{ form.receipt_images(class="form-control form-control-lg") }}
+        {% endif %}
+</div>
+{% endblock body %}

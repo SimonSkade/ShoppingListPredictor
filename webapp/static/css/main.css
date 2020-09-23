@@ -1,0 +1,267 @@
+html {
+    scroll-behavior: smooth;
+}
+
+@keyframes float {
+	0% {
+		transform: translatey(0px);
+	}
+	50% {
+		transform: translatey(-30px);
+	}
+	100% {
+		transform: translatey(0px);
+	}
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: 1.1vw;
+}
+
+.list-group{
+    /**max-height: 150px !important;
+    overflow: auto;
+    overflow-y: scroll;*/
+    list-style:none;
+    max-height:500px;
+    margin:0;
+    overflow:auto;
+    padding:0;
+    text-indent:10px;
+}
+li {
+  float: right;
+}
+
+a {
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    color: #4488ee;
+}
+
+.introImage {
+    background-image: url(../img/sideIntroImage.svg);
+}
+
+.shoppingClipart {
+    background-image: url(../img/shopping.svg); 
+}
+
+.home {
+    background-image: url(../img/arrow.svg)
+}
+
+.mobilewarning {
+    background-image: url(../img/warning.svg);
+}
+
+.howitworks {
+    background-image: url(../img/howitworks@2x.png);
+}
+
+.about {
+    background-image: url(../img/spacerLineAbout.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.mobilewarning {
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.mobilewarning {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 100px;
+}
+
+/*
+
+base.html
+
+*/
+
+.name-label {
+    margin-left: 30px; 
+    float: left;
+    margin-top: 30px;
+}
+
+.displayFlexCenter {
+    display: flex;
+    align-items: center;
+}
+
+.top-bar {
+    height:110px;
+    justify-content:flex-end;
+}
+
+.top-bar-list {
+    margin-right: 25px;
+    color: #4865e67c;
+    font-size: 20px;
+}
+
+.logOut {
+    position: absolute;
+    bottom: 0;
+    color: #4866E6;
+}
+
+.profilePicture {
+    
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+
+    border-radius: 50%;
+
+    width: 70px;height: 70px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    float: left;
+}
+
+/*
+
+gettingstarted.html
+
+*/
+
+.spaceLine {
+    background-image: url(../img/spaceLine.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+fieldset {
+    border: none;
+    color: #3F3D56;
+}
+input[type="text"] {
+    border: 2px solid rgba(72, 102, 230, 0.5);
+    border-radius: 10px;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+}
+
+input[type=text]:focus {
+    border: 2px solid rgba(72, 102, 230, 1);
+}
+
+input[type="password"] {
+    border: 2px solid rgba(72, 102, 230, 0.5);
+    border-radius: 8px;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+}
+
+input[type=password]:focus {
+    border: 2px solid rgba(72, 102, 230, 1);
+}
+
+label {
+    color: #4866E6;
+}
+
+.submitButton {
+    border: 2px solid rgba(72, 102, 230, 1);
+    border-radius: 8px;
+    padding: 12px 0px;
+    margin: 8px 0;
+    width: calc( 100% - 10px);
+    color: #4866E6;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+    background-color: white;
+    
+}
+
+.greenSubmit {
+    border: 2px solid rgb(52, 226, 66) !important;
+    color: rgb(52, 226, 66) !important;
+}
+
+.greenSubmit:hover {
+    background-color: rgb(52, 226, 66) !important;
+    color: white !important;
+}
+
+.redSubmit {
+    border: 2px solid rgb(243, 76, 76) !important;
+    color: rgb(243, 76, 76) !important;
+}
+
+.redSubmit:hover {
+    background-color: rgb(243, 76, 76) !important;
+    color: white !important;
+}
+
+
+
+.submitButton:hover {
+    border: 2px solid rgba(72, 102, 230, 1);
+    background-color: #4866E6;
+    color: white;
+    cursor: pointer;
+}
+
+.submitButton:focus {
+    border: 2px solid rgba(72, 102, 230, 1);
+    background-color: #4866E6;
+    color: white;
+    cursor: pointer;
+}
+
+input[type="submit"]:focus {
+    border: none;
+    outline: none;
+}
+
+.password input {
+    margin-right: 0px;
+}
+
+.password label {
+    margin-left: 10px;
+}
+
+
+.center-form {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* .empty-list {
+    background-image: url(../img/empty.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 40%;
+} */

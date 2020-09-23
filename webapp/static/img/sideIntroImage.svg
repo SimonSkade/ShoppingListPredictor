@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="759" height="583" viewBox="0 0 759 583">
+  <defs>
+    <filter id="Ellipse_9" x="508" y="169" width="251" height="251" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#6a83ef"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_6" x="205" y="360" width="222" height="223" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#d14bb7"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_5" x="0" y="0" width="272" height="272" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-color="#4bd184"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_4" x="102.468" y="148.749" width="40.022" height="40.022" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-color="#4bd184"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Pfad_1" x="134.602" y="148.749" width="40.022" height="40.022" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-color="#4bd184"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Pfad_2" x="77.638" y="77.628" width="108.109" height="84.627" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-color="#4bd184"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Pfad_3" x="563.972" y="239.984" width="143.409" height="109.143" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-color="#6a83ef"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Pfad_4" x="250.648" y="479.478" width="133.025" height="57.391" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-color="#d14bb7"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_7" x="282" y="423" width="68" height="68" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-color="#d14bb7"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Gruppe_5" data-name="Gruppe 5" transform="translate(-9.99 -19)">
+    <g transform="matrix(1, 0, 0, 1, 9.99, 19)" filter="url(#Ellipse_9)">
+      <circle id="Ellipse_9-2" data-name="Ellipse 9" cx="116.5" cy="116.5" r="116.5" transform="translate(517 178)" fill="#6a83ef" opacity="0.319"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 9.99, 19)" filter="url(#Ellipse_6)">
+      <ellipse id="Ellipse_6-2" data-name="Ellipse 6" cx="102" cy="102.5" rx="102" ry="102.5" transform="translate(214 369)" fill="#d14bb7" opacity="0.319"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 9.99, 19)" filter="url(#Ellipse_5)">
+      <circle id="Ellipse_5-2" data-name="Ellipse 5" cx="127" cy="127" r="127" transform="translate(9 9)" fill="#4bd184" opacity="0.319"/>
+    </g>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(39.99 49)" fill="#fff" stroke="#3f3d56" stroke-width="7">
+      <circle cx="106" cy="106" r="106" stroke="none"/>
+      <circle cx="106" cy="106" r="102.5" fill="none"/>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(547.99 219)" fill="#fff" stroke="#3f3d56" stroke-width="7">
+      <ellipse cx="95.5" cy="95" rx="95.5" ry="95" stroke="none"/>
+      <ellipse cx="95.5" cy="95" rx="92" ry="91.5" fill="none"/>
+    </g>
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(244.99 409)" fill="#fff" stroke="#3f3d56" stroke-width="7">
+      <circle cx="81" cy="81" r="81" stroke="none"/>
+      <circle cx="81" cy="81" r="77.5" fill="none"/>
+    </g>
+    <line id="Linie_1" data-name="Linie 1" x2="98.799" y2="176.426" transform="translate(184.841 250.297)" fill="none" stroke="#3f3d56" stroke-width="7"/>
+    <line id="Linie_2" data-name="Linie 2" x2="317.567" y2="98.799" transform="translate(241.297 186.784)" fill="none" stroke="#3f3d56" stroke-width="7"/>
+    <line id="Linie_3" data-name="Linie 3" y1="98.799" x2="169.369" transform="translate(396.552 363.21)" fill="none" stroke="#3f3d56" stroke-width="7"/>
+    <g id="shopping-cart" transform="translate(96.628 105.627)">
+      <g id="Gruppe_2" data-name="Gruppe 2">
+        <g id="Gruppe_1" data-name="Gruppe 1" transform="translate(0 0)">
+          <g transform="matrix(1, 0, 0, 1, -86.64, -86.63)" filter="url(#Ellipse_4)">
+            <circle id="Ellipse_4-2" data-name="Ellipse 4" cx="11.011" cy="11.011" r="11.011" transform="translate(111.47 157.75)" fill="#4bd184"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -86.64, -86.63)" filter="url(#Pfad_1)">
+            <path id="Pfad_1-2" data-name="Pfad 1" d="M277.508,324.1h0a11.011,11.011,0,1,0,11.011,11.011A11.011,11.011,0,0,0,277.508,324.1Z" transform="translate(-122.9 -166.35)" fill="#4bd184"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -86.64, -86.63)" filter="url(#Pfad_2)">
+            <path id="Pfad_2-2" data-name="Pfad 2" d="M93.651,59.885H36.238l-1.124-6.517H82.3a3.371,3.371,0,0,0,3.146-2.135L96.685,22.92a3.371,3.371,0,0,0-3.146-4.607H29.272l-2.7-15.505A3.371,3.371,0,0,0,23.2,0H10.284a3.371,3.371,0,0,0,0,6.741H20.4l9.663,57.076a3.371,3.371,0,0,0,3.371,2.809H93.651a3.371,3.371,0,0,0,0-6.741Z" transform="translate(79.72 86.63)" fill="#4bd184"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 9.99, 19)" filter="url(#Pfad_3)">
+      <path id="Pfad_3-2" data-name="Pfad 3" d="M98.382,146.976l16.489-46.5,28.221,33.713L190.1,60.5l27.244,56.069" transform="translate(477.89 191.98)" fill="none" stroke="#6a83ef" stroke-linejoin="round" stroke-width="7"/>
+    </g>
+    <g id="Gruppe_4" data-name="Gruppe 4" transform="translate(244.825 409.08)">
+      <g id="Gruppe_3" data-name="Gruppe 3" transform="translate(33.336 42.342)">
+        <g transform="matrix(1, 0, 0, 1, -268.17, -432.42)" filter="url(#Pfad_4)">
+          <path id="Pfad_4-2" data-name="Pfad 4" d="M56.534,132s-3.316-34.666,51.144-35.542S164.51,132,164.51,132" transform="translate(206.67 395.54)" fill="none" stroke="#d14bb7" stroke-width="7"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -268.17, -432.42)" filter="url(#Ellipse_7)">
+          <g id="Ellipse_7-2" data-name="Ellipse 7" transform="translate(291 432)" fill="none" stroke="#d14bb7" stroke-width="7">
+            <circle cx="25" cy="25" r="25" stroke="none"/>
+            <circle cx="25" cy="25" r="21.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Pfad_5" data-name="Pfad 5" transform="translate(0.164 -0.08)" fill="none" opacity="0.8">
+        <path d="M81,0A81,81,0,1,1,0,81,81.086,81.086,0,0,1,81,0Z" stroke="none"/>
+        <path d="M 81 7 C 40.19625091552734 7 7 40.19625091552734 7 81 C 7 121.8037490844727 40.19625091552734 155 81 155 C 121.8037490844727 155 155 121.8037490844727 155 81 C 155 68.1002197265625 151.6832275390625 55.49094390869141 145.4080505371094 44.53500366210938 C 132.1490325927734 21.38258361816406 107.4693069458008 7 81 7 M 81 0 C 111.1064758300781 0 137.3766326904297 16.42520141601562 151.4824676513672 41.0562744140625 C 158.1221160888672 52.64855194091797 162 66.37141418457031 162 81 C 162 125.7350540161133 125.7350540161133 162 81 162 C 36.26494598388672 162 0 125.7350540161133 0 81 C 0 36.26494598388672 36.26494598388672 0 81 0 Z" stroke="none" fill="#3f3d56"/>
+      </g>
+    </g>
+  </g>
+</svg>

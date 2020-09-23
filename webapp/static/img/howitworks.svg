@@ -1,0 +1,440 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1727" height="793" viewBox="0 0 1727 793">
+  <defs>
+    <filter id="Rechteck_15" x="0" y="0" width="408" height="793" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_21" x="142" y="634" width="124" height="124" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#4866e6"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="_1" x="183" y="662" width="43" height="69" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-color="#4866e6"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rechteck_15-2" x="440" y="0" width="408" height="793" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_21-2" x="582" y="634" width="124" height="124" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-color="#4866e6"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="_2" x="623" y="662" width="43" height="69" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-color="#4866e6"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b3b3b3" stop-opacity="0.251"/>
+      <stop offset="0.54" stop-color="#b3b3b3" stop-opacity="0.102"/>
+      <stop offset="1" stop-color="#b3b3b3" stop-opacity="0.051"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="0" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="gray" stop-opacity="0.251"/>
+      <stop offset="0.54" stop-color="gray" stop-opacity="0.122"/>
+      <stop offset="1" stop-color="gray" stop-opacity="0.102"/>
+    </linearGradient>
+    <filter id="Linie_4" x="245.5" y="685.5" width="357" height="22" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-color="#4866e6"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rechteck_15-3" x="879" y="0" width="408" height="793" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_21-3" x="1021" y="634" width="124" height="124" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-color="#4866e6"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="_3" x="1062" y="662" width="43" height="69" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-10"/>
+      <feFlood flood-color="#4866e6"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Linie_5" x="684.5" y="685.5" width="357" height="22" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-11"/>
+      <feFlood flood-color="#4866e6"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rechteck_15-4" x="1319" y="0" width="408" height="793" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-12"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_21-4" x="1461" y="634" width="124" height="124" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-13"/>
+      <feFlood flood-color="#4866e6"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="_4" x="1502" y="662" width="43" height="69" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-14"/>
+      <feFlood flood-color="#4866e6"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Pfad_122" x="1124.5" y="685.5" width="357" height="22" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-15"/>
+      <feFlood flood-color="#4866e6"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Gruppe_38" data-name="Gruppe 38" transform="translate(-97 -2285)">
+    <g id="Gruppe_12" data-name="Gruppe 12" transform="translate(-35 -10)">
+      <g transform="matrix(1, 0, 0, 1, 132, 2295)" filter="url(#Rechteck_15)">
+        <rect id="Rechteck_15-5" data-name="Rechteck 15" width="390" height="775" rx="40" transform="translate(9 9)" fill="#fff"/>
+      </g>
+      <g id="Gruppe_10" data-name="Gruppe 10" transform="translate(282.71 2938)">
+        <g transform="matrix(1, 0, 0, 1, -150.71, -643)" filter="url(#Ellipse_21)">
+          <g id="Ellipse_21-5" data-name="Ellipse 21" transform="translate(151 643)" fill="none" stroke="#4866e6" stroke-width="4">
+            <circle cx="53" cy="53" r="53" stroke="none"/>
+            <circle cx="53" cy="53" r="51" fill="none"/>
+          </g>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -150.71, -643)" filter="url(#_1)">
+          <text id="_1-2" data-name="1" transform="translate(192 713)" fill="#4866e6" font-size="44" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">1</tspan></text>
+        </g>
+      </g>
+      <g id="undraw_empty_cart_co35_1_" data-name="undraw_empty_cart_co35 (1)" transform="translate(186 2382)">
+        <path id="Pfad_44" data-name="Pfad 44" d="M188.477,755.18c4.17,7.734,13.02,11.053,13.02,11.053s2.089-9.219-2.081-16.952-13.02-11.053-13.02-11.053S184.307,747.446,188.477,755.18Z" transform="translate(-173.966 -516.04)" fill="#2f2e41"/>
+        <path id="Pfad_45" data-name="Pfad 45" d="M168.835,774.89c7.529,4.53,10.428,13.526,10.428,13.526s-9.307,1.653-16.835-2.876S152,772.014,152,772.014,161.307,770.36,168.835,774.89Z" transform="translate(-151.458 -538.294)" fill="#4866e6"/>
+        <rect id="Rechteck_16" data-name="Rechteck 16" width="46.973" height="0.671" transform="translate(138.877 12.048)" fill="#f2f2f2"/>
+        <rect id="Rechteck_17" data-name="Rechteck 17" width="0.671" height="6.207" transform="translate(172.414 12.551)" fill="#f2f2f2"/>
+        <rect id="Rechteck_18" data-name="Rechteck 18" width="0.671" height="6.207" transform="translate(151.987 12.551)" fill="#f2f2f2"/>
+        <rect id="Rechteck_19" data-name="Rechteck 19" width="46.973" height="0.671" transform="translate(162.645 44.258)" fill="#f2f2f2"/>
+        <rect id="Rechteck_20" data-name="Rechteck 20" width="0.671" height="6.207" transform="translate(175.428 38.219)" fill="#f2f2f2"/>
+        <rect id="Rechteck_21" data-name="Rechteck 21" width="0.671" height="6.207" transform="translate(195.855 38.219)" fill="#f2f2f2"/>
+        <rect id="Rechteck_22" data-name="Rechteck 22" width="46.973" height="0.671" transform="translate(224.843 59.357)" fill="#f2f2f2"/>
+        <rect id="Rechteck_23" data-name="Rechteck 23" width="0.671" height="6.207" transform="translate(237.714 53.317)" fill="#f2f2f2"/>
+        <rect id="Rechteck_24" data-name="Rechteck 24" width="0.671" height="6.207" transform="translate(258.06 53.317)" fill="#f2f2f2"/>
+        <rect id="Rechteck_25" data-name="Rechteck 25" width="46.973" height="0.671" transform="translate(220.146 215.04)" fill="#f2f2f2"/>
+        <rect id="Rechteck_26" data-name="Rechteck 26" width="0.671" height="6.207" transform="translate(233.026 209)" fill="#f2f2f2"/>
+        <rect id="Rechteck_27" data-name="Rechteck 27" width="0.671" height="6.207" transform="translate(253.363 209)" fill="#f2f2f2"/>
+        <rect id="Rechteck_28" data-name="Rechteck 28" width="46.973" height="0.671" transform="translate(140.216 107.337)" fill="#f2f2f2"/>
+        <rect id="Rechteck_29" data-name="Rechteck 29" width="0.671" height="6.207" transform="translate(152.991 101.297)" fill="#f2f2f2"/>
+        <rect id="Rechteck_30" data-name="Rechteck 30" width="0.671" height="6.207" transform="translate(173.418 101.297)" fill="#f2f2f2"/>
+        <rect id="Rechteck_31" data-name="Rechteck 31" width="46.973" height="0.671" transform="translate(154.946 188.198)" fill="#f2f2f2"/>
+        <rect id="Rechteck_32" data-name="Rechteck 32" width="0.671" height="6.207" transform="translate(167.726 182.158)" fill="#f2f2f2"/>
+        <rect id="Rechteck_33" data-name="Rechteck 33" width="0.671" height="6.207" transform="translate(188.153 182.158)" fill="#f2f2f2"/>
+        <rect id="Rechteck_34" data-name="Rechteck 34" width="46.973" height="0.671" transform="translate(229.876 163.705)" fill="#f2f2f2"/>
+        <rect id="Rechteck_35" data-name="Rechteck 35" width="0.671" height="6.207" transform="translate(242.626 157.665)" fill="#f2f2f2"/>
+        <rect id="Rechteck_36" data-name="Rechteck 36" width="0.671" height="6.207" transform="translate(263.093 157.665)" fill="#f2f2f2"/>
+        <path id="Pfad_46" data-name="Pfad 46" d="M204.721,631.193H125.274v-.571H204.15V602.9h-72.2l-3.507-7.307.515-.247,3.352,6.982h72.409Z" transform="translate(-82.7 -395.594)" fill="#2f2e41"/>
+        <circle id="Ellipse_22" data-name="Ellipse 22" cx="6.001" cy="6.001" r="6.001" transform="translate(47.147 237.6)" fill="#3f3d56"/>
+        <circle id="Ellipse_23" data-name="Ellipse 23" cx="6.001" cy="6.001" r="6.001" transform="translate(106.089 237.6)" fill="#3f3d56"/>
+        <circle id="Ellipse_24" data-name="Ellipse 24" cx="3.715" cy="3.715" r="3.715" transform="translate(177.967 112.427)" fill="#3f3d56"/>
+        <path id="Pfad_47" data-name="Pfad 47" d="M324.27,540.689h-89.3l-19.322-63.158h128.52l-.117.372Zm-88.876-.572h88.457L343.39,478.1H216.421Z" transform="translate(-193.751 -342.813)" fill="#2f2e41"/>
+        <path id="Pfad_48" data-name="Pfad 48" d="M177.666,469.028H99.231L82.26,413.015H195.144l-.1.33Z" transform="translate(-54.118 -274.439)" fill="#f2f2f2"/>
+        <path id="Pfad_49" data-name="Pfad 49" d="M450.371,356.256l-.553-.147,3.772-14.216h21.94v.572h-21.5Z" transform="translate(-298.672 -227.181)" fill="#2f2e41"/>
+        <rect id="Rechteck_37" data-name="Rechteck 37" width="115.854" height="0.572" transform="translate(28.142 153.866)" fill="#2f2e41"/>
+        <rect id="Rechteck_38" data-name="Rechteck 38" width="102.777" height="0.572" transform="translate(34.584 174.923)" fill="#2f2e41"/>
+        <rect id="Rechteck_39" data-name="Rechteck 39" width="0.572" height="62.586" transform="translate(85.704 135.004)" fill="#2f2e41"/>
+        <rect id="Rechteck_40" data-name="Rechteck 40" width="62.719" height="0.572" transform="matrix(0.065, -0.998, 0.998, 0.065, 107.717, 197.571)" fill="#2f2e41"/>
+        <rect id="Rechteck_41" data-name="Rechteck 41" width="0.572" height="62.719" transform="translate(59.605 135.022) rotate(-3.729)" fill="#2f2e41"/>
+        <rect id="Rechteck_42" data-name="Rechteck 42" width="300" height="1" transform="translate(0 250)" fill="#2f2e41"/>
+        <path id="Pfad_50" data-name="Pfad 50" d="M747.411,136s4.9,13.96,1.886,16.108,10.187,19.687,10.187,19.687l15.846-4.3-8.678-14.676s-1.132-14.676-1.132-16.823S747.411,136,747.411,136Z" transform="translate(-547.522 -115.239)" fill="#a0616a"/>
+        <path id="Pfad_51" data-name="Pfad 51" d="M747.411,136s4.9,13.96,1.886,16.108,10.187,19.687,10.187,19.687l15.846-4.3-8.678-14.676s-1.132-14.676-1.132-16.823S747.411,136,747.411,136Z" transform="translate(-547.522 -115.239)" opacity="0.1"/>
+        <path id="Pfad_52" data-name="Pfad 52" d="M721.613,413.558s-1.432,17.9,0,27.2,3.579,35.079,3.579,35.079,0,48.681,7.875,49.4,13.6,1.432,14.318-1.432-3.579-4.3-1.432-5.727,2.864-6.443,0-12.17,0-63.714,0-63.714l13.6,36.51s1.432,30.067,2.864,34.363-1.432,12.17,3.579,12.886,10.738-3.579,13.6-5.011-4.3-1.432-2.864-2.148,5.727-2.864,4.3-3.579-2.864-35.079-2.864-35.079-3.937-73.379-8.949-76.242-8.233,2.069-8.233,2.069Z" transform="translate(-529.993 -293.288)" fill="#2f2e41"/>
+        <path id="Pfad_53" data-name="Pfad 53" d="M755.608,758.784v5.727s-6.443,15.568,0,15.568,11.454,1.613,11.454-.534V760.216Z" transform="translate(-551.05 -529.699)" fill="#2f2e41"/>
+        <path id="Pfad_54" data-name="Pfad 54" d="M864.481,758.754v5.727s6.443,15.568,0,15.568-11.454,1.613-11.454-.534V760.185Z" transform="translate(-617.753 -529.678)" fill="#2f2e41"/>
+        <circle id="Ellipse_25" data-name="Ellipse 25" cx="12.886" cy="12.886" r="12.886" transform="translate(197.035 5.369)" fill="#a0616a"/>
+        <path id="Pfad_55" data-name="Pfad 55" d="M762.711,201.9s3.579,10.738,9.307,8.591l5.727-2.148,10.023,68.726s-7.875,11.454-19.329,4.3S762.711,201.9,762.711,201.9Z" transform="translate(-556.745 -159.662)" fill="#4866e6"/>
+        <path id="Pfad_56" data-name="Pfad 56" d="M795.418,182.03l3.221-6.8s18.971,8.949,21.835,11.812a11.18,11.18,0,0,1,2.864,7.159l-5.011,17.9s1.432,39.374,1.432,40.806,5.011,9.307,1.432,6.443-4.3-5.727-7.159-1.432-9.307,9.307-9.307,9.307Z" transform="translate(-579.456 -141.94)" fill="#3f3d56"/>
+        <path id="Pfad_57" data-name="Pfad 57" d="M845.172,349.122l-2.148,20.045S830.138,380.621,833,381.337s4.3-2.148,4.3-2.148,5.011,5.011,7.875,2.148,10.023-30.067,10.023-30.067Z" transform="translate(-604.171 -257.488)" fill="#a0616a"/>
+        <path id="Pfad_58" data-name="Pfad 58" d="M748.493,76.058c-2.857-.1-5.914-.153-8.322,1.387a12.182,12.182,0,0,0-2.876,2.816c-2.346,2.966-4.373,6.7-3.5,10.376l1.012-.395a6.626,6.626,0,0,1-.639,2.839c.142-.414.62.256.492.675l-1.115,3.657a3.443,3.443,0,0,1,4.391,2.62c.127-4.248.568-9.119,4.014-11.607A13.885,13.885,0,0,1,748,86.449a12.177,12.177,0,0,1,5.869.03c1.87.643,3.462,2.555,3.038,4.486a2,2,0,0,1,2.253,1.11,5.831,5.831,0,0,1,.461,2.669c.919.65,1.965-.64,2.339-1.7.879-2.491,1.661-5.143,1.187-7.742s-2.591-5.082-5.233-5.091a1.834,1.834,0,0,0,.477-1.291l-2.177-.184a2.406,2.406,0,0,0,1.438-.758C756.78,78.939,749.907,76.108,748.493,76.058Z" transform="translate(-538.3 -76.014)" fill="#2f2e41"/>
+        <path id="Pfad_59" data-name="Pfad 59" d="M718.044,178.45s-5.828-5.711-7.925-5.361-4.961,5.361-4.961,5.361-17.181,5.727-16.466,11.454,8.591,33.647,8.591,33.647,6.443,33.647.716,37.226,27.2,12.886,27.92,8.591,2.148-47.249,0-53.692S718.044,178.45,718.044,178.45Z" transform="translate(-508.463 -140.508)" fill="#3f3d56"/>
+        <path id="Pfad_60" data-name="Pfad 60" d="M850.893,223.236h8.852s6.182,27.2,6.9,30.067,2.148,16.466,1.432,16.466-15.034-2.864-15.034-.716Z" transform="translate(-616.339 -173.84)" fill="#3f3d56"/>
+        <path id="Pfad_61" data-name="Pfad 61" d="M777.769,336.968H743.881c-3.307-15.213-3.583-29.911,0-43.954h33.888C772.3,306.8,771.958,321.4,777.769,336.968Z" transform="translate(-543.468 -220.206)" fill="#f2f2f2"/>
+        <path id="Pfad_62" data-name="Pfad 62" d="M707.938,355.738l10.022,4.3s19.329,2.864,19.329-5.011-19.329-3.579-19.329-3.579l-6.443-2.06Z" transform="translate(-521.267 -257.661)" fill="#a0616a"/>
+        <path id="Pfad_63" data-name="Pfad 63" d="M683.3,210.435l-8.591,2.148-6.443,37.942s-2.148,10.022,1.432,10.738,13.6,6.443,13.6,6.443,1.432-10.738,4.3-10.738l-7.159-5.727,4.3-25.056Z" transform="translate(-494.44 -165.333)" fill="#3f3d56"/>
+        <rect id="Rechteck_43" data-name="Rechteck 43" width="46.973" height="0.671" transform="translate(20.757 118.409)" fill="#f2f2f2"/>
+        <rect id="Rechteck_44" data-name="Rechteck 44" width="0.671" height="6.207" transform="translate(33.507 112.369)" fill="#f2f2f2"/>
+        <rect id="Rechteck_45" data-name="Rechteck 45" width="0.671" height="6.207" transform="translate(53.974 112.369)" fill="#f2f2f2"/>
+        <rect id="Rechteck_46" data-name="Rechteck 46" width="46.973" height="0.671" transform="translate(37.198 19.094)" fill="#f2f2f2"/>
+        <rect id="Rechteck_47" data-name="Rechteck 47" width="0.671" height="6.207" transform="translate(70.613 19.597)" fill="#f2f2f2"/>
+        <rect id="Rechteck_48" data-name="Rechteck 48" width="0.671" height="6.207" transform="translate(50.283 19.597)" fill="#f2f2f2"/>
+        <rect id="Rechteck_49" data-name="Rechteck 49" width="46.973" height="0.671" transform="translate(84.312 85.192)" fill="#f2f2f2"/>
+        <rect id="Rechteck_50" data-name="Rechteck 50" width="0.671" height="6.207" transform="translate(117.83 85.695)" fill="#f2f2f2"/>
+        <rect id="Rechteck_51" data-name="Rechteck 51" width="0.671" height="6.207" transform="translate(97.402 85.695)" fill="#f2f2f2"/>
+        <rect id="Rechteck_52" data-name="Rechteck 52" width="46.973" height="0.671" transform="translate(4.652 84.857)" fill="#f2f2f2"/>
+        <rect id="Rechteck_53" data-name="Rechteck 53" width="0.671" height="6.207" transform="translate(38.204 85.36)" fill="#f2f2f2"/>
+        <rect id="Rechteck_54" data-name="Rechteck 54" width="0.671" height="6.207" transform="translate(17.737 85.36)" fill="#f2f2f2"/>
+        <rect id="Rechteck_55" data-name="Rechteck 55" width="46.973" height="0.671" transform="translate(60.88 51.304)" fill="#f2f2f2"/>
+        <rect id="Rechteck_56" data-name="Rechteck 56" width="0.671" height="6.207" transform="translate(73.626 45.265)" fill="#f2f2f2"/>
+        <rect id="Rechteck_57" data-name="Rechteck 57" width="0.671" height="6.207" transform="translate(94.054 45.265)" fill="#f2f2f2"/>
+      </g>
+      <g id="Gruppe_11" data-name="Gruppe 11" transform="translate(179 2747)">
+        <text id="Go_shopping" data-name="Go shopping" transform="translate(0 51)" fill="#3f3d56" font-size="52" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">Go shopping</tspan></text>
+        <text id="_the_best_part_" data-name="(the best part)" transform="translate(64 117)" fill="#3f3d56" font-size="29" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">(the best part)</tspan></text>
+      </g>
+    </g>
+    <g id="Gruppe_13" data-name="Gruppe 13" transform="translate(405 -10)">
+      <g transform="matrix(1, 0, 0, 1, -308, 2295)" filter="url(#Rechteck_15-2)">
+        <rect id="Rechteck_15-6" data-name="Rechteck 15" width="390" height="775" rx="40" transform="translate(449 9)" fill="#fff"/>
+      </g>
+      <g id="Gruppe_10-2" data-name="Gruppe 10" transform="translate(283.157 2938)">
+        <g transform="matrix(1, 0, 0, 1, -591.16, -643)" filter="url(#Ellipse_21-2)">
+          <g id="Ellipse_21-6" data-name="Ellipse 21" transform="translate(591 643)" fill="none" stroke="#4866e6" stroke-width="4">
+            <circle cx="53" cy="53" r="53" stroke="none"/>
+            <circle cx="53" cy="53" r="51" fill="none"/>
+          </g>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -591.16, -643)" filter="url(#_2)">
+          <text id="_2-2" data-name="2" transform="translate(632 713)" fill="#4866e6" font-size="44" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">2</tspan></text>
+        </g>
+      </g>
+      <g id="Gruppe_11-2" data-name="Gruppe 11" transform="translate(182 2743)">
+        <text id="Upload_your_reciepts" data-name="Upload your 
+reciepts" transform="translate(154 51)" fill="#3f3d56" font-size="52" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="-154.128" y="0">Upload your </tspan><tspan x="-96.356" y="64">reciepts</tspan></text>
+      </g>
+      <g id="undraw_add_file2_gvbb" transform="translate(211.202 2371)">
+        <path id="Pfad_64" data-name="Pfad 64" d="M378.14,272.573c0-17.771,17.548-34.155,35.319-34.155,2.723,0,5.363-.687,7.9-.055.034-.776.055-5.335.055-6.118V51.81H267.587L236,84.255V294.2H381.23C378.105,289.245,378.14,278.87,378.14,272.573Z" transform="translate(-236 -51.81)" fill="url(#linear-gradient)"/>
+        <path id="Pfad_65" data-name="Pfad 65" d="M380.962,450.148a40.17,40.17,0,0,1,40.17-40.17c1.212,0,2.4.058,3.6.161V317H244.48V464.224H383.5A40.081,40.081,0,0,1,380.962,450.148Z" transform="translate(-241.569 -225.952)" fill="#fcfcfc"/>
+        <path id="Pfad_66" data-name="Pfad 66" d="M187.565,96.033H6.91V36.057L36.124,5.5H187.565Z" transform="translate(-4.538 -3.612)" fill="#fcfcfc"/>
+        <rect id="Rechteck_58" data-name="Rechteck 58" width="49.004" height="3.739" transform="translate(122.772 20.116)" fill="#e0e0e0"/>
+        <rect id="Rechteck_59" data-name="Rechteck 59" width="49.004" height="3.739" transform="translate(122.772 33.849)" fill="#e0e0e0"/>
+        <rect id="Rechteck_60" data-name="Rechteck 60" width="49.004" height="3.739" transform="translate(122.772 47.582)" fill="#e0e0e0"/>
+        <rect id="Rechteck_61" data-name="Rechteck 61" width="49.004" height="3.739" transform="translate(122.772 61.316)" fill="#4866e6" opacity="0.5"/>
+        <rect id="Rechteck_62" data-name="Rechteck 62" width="49.004" height="3.739" transform="translate(122.772 75.049)" fill="#e0e0e0"/>
+        <rect id="Rechteck_63" data-name="Rechteck 63" width="49.004" height="3.739" transform="translate(122.772 88.782)" fill="#e0e0e0"/>
+        <rect id="Rechteck_64" data-name="Rechteck 64" width="49.004" height="3.739" transform="translate(29.087 117.966)" fill="#4866e6" opacity="0.5"/>
+        <rect id="Rechteck_65" data-name="Rechteck 65" width="49.004" height="3.739" transform="translate(29.087 132.914)" fill="#e0e0e0"/>
+        <rect id="Rechteck_66" data-name="Rechteck 66" width="127.912" height="3.739" transform="translate(29.087 125.44)" fill="#69f0ae" opacity="0.5"/>
+        <rect id="Rechteck_67" data-name="Rechteck 67" width="49.004" height="3.739" transform="translate(29.087 154.095)" fill="#4866e6" opacity="0.5"/>
+        <rect id="Rechteck_68" data-name="Rechteck 68" width="49.004" height="3.739" transform="translate(29.087 169.047)" fill="#e0e0e0"/>
+        <rect id="Rechteck_69" data-name="Rechteck 69" width="127.912" height="3.739" transform="translate(29.087 161.569)" fill="#e0e0e0"/>
+        <rect id="Rechteck_70" data-name="Rechteck 70" width="49.004" height="3.739" transform="translate(29.087 190.227)" fill="#4866e6" opacity="0.5"/>
+        <rect id="Rechteck_71" data-name="Rechteck 71" width="49.004" height="3.739" transform="translate(29.087 205.176)" fill="#e0e0e0"/>
+        <rect id="Rechteck_72" data-name="Rechteck 72" width="104.857" height="3.739" transform="translate(29.087 197.701)" fill="#e0e0e0"/>
+        <path id="Pfad_67" data-name="Pfad 67" d="M139.266,124.713H50V46.777L53.09,43h86.176Z" transform="translate(-32.833 -28.237)" fill="#4866e6"/>
+        <path id="Pfad_68" data-name="Pfad 68" d="M4.91,35.43H35.5V3.5Z" transform="translate(-3.224 -2.298)" fill="url(#linear-gradient-2)"/>
+        <path id="Pfad_69" data-name="Pfad 69" d="M6.91,36.057H36.124V5.5Z" transform="translate(-4.538 -3.612)" fill="#f5f5f5"/>
+        <g id="Gruppe_14" data-name="Gruppe 14" transform="translate(181.19 204.667)" opacity="0.5">
+          <circle id="Ellipse_26" data-name="Ellipse 26" cx="34.378" cy="34.378" r="34.378" fill="url(#linear-gradient-3)"/>
+        </g>
+        <circle id="Ellipse_27" data-name="Ellipse 27" cx="32.177" cy="32.177" r="32.177" transform="translate(183.391 206.868)" fill="#3ad29f"/>
+        <g id="Gruppe_15" data-name="Gruppe 15" transform="translate(198.206 221.683)" opacity="0.5">
+          <path id="Pfad_70" data-name="Pfad 70" d="M612.025,659.163H598.539V645.68h-7.752v13.483H577.3v7.756h13.486V680.4h7.752V666.919h13.486Z" transform="translate(-577.3 -645.68)" fill="url(#linear-gradient-3)"/>
+        </g>
+        <rect id="Rechteck_73" data-name="Rechteck 73" width="6.592" height="29.516" transform="translate(212.272 224.285)" fill="#fff"/>
+        <rect id="Rechteck_74" data-name="Rechteck 74" width="6.592" height="29.516" transform="translate(230.328 235.749) rotate(90)" fill="#fff"/>
+        <path id="Pfad_71" data-name="Pfad 71" d="M483.14,317.573c0-17.771,17.548-34.155,35.319-34.155,2.723,0,5.363-.687,7.9-.055.034-.776.055-5.335.055-6.118V96.81H372.587L341,129.255V339.2H486.23C483.105,334.245,483.14,323.87,483.14,317.573Z" transform="translate(-304.95 -81.36)" fill="url(#linear-gradient)"/>
+        <path id="Pfad_72" data-name="Pfad 72" d="M485.962,495.148a40.17,40.17,0,0,1,40.17-40.17c1.212,0,2.4.058,3.6.161V362H349.48V509.224H488.5A40.081,40.081,0,0,1,485.962,495.148Z" transform="translate(-310.519 -255.502)" fill="#fff"/>
+        <path id="Pfad_73" data-name="Pfad 73" d="M292.565,141.033H111.91V81.057L141.124,50.5H292.565Z" transform="translate(-73.488 -33.162)" fill="#fff"/>
+        <rect id="Rechteck_75" data-name="Rechteck 75" width="49.004" height="3.739" transform="translate(158.822 35.566)" fill="#e0e0e0"/>
+        <rect id="Rechteck_76" data-name="Rechteck 76" width="49.004" height="3.739" transform="translate(158.822 49.299)" fill="#e0e0e0"/>
+        <rect id="Rechteck_77" data-name="Rechteck 77" width="49.004" height="3.739" transform="translate(158.822 63.032)" fill="#e0e0e0"/>
+        <rect id="Rechteck_78" data-name="Rechteck 78" width="49.004" height="3.739" transform="translate(158.822 76.766)" fill="#4866e6" opacity="0.5"/>
+        <rect id="Rechteck_79" data-name="Rechteck 79" width="49.004" height="3.739" transform="translate(158.822 90.499)" fill="#e0e0e0"/>
+        <rect id="Rechteck_80" data-name="Rechteck 80" width="49.004" height="3.739" transform="translate(158.822 104.232)" fill="#e0e0e0"/>
+        <rect id="Rechteck_81" data-name="Rechteck 81" width="49.004" height="3.739" transform="translate(65.137 133.416)" fill="#4866e6" opacity="0.5"/>
+        <rect id="Rechteck_82" data-name="Rechteck 82" width="49.004" height="3.739" transform="translate(65.137 148.364)" fill="#e0e0e0"/>
+        <rect id="Rechteck_83" data-name="Rechteck 83" width="127.912" height="3.739" transform="translate(65.137 140.89)" fill="#69f0ae" opacity="0.5"/>
+        <rect id="Rechteck_84" data-name="Rechteck 84" width="49.004" height="3.739" transform="translate(65.137 169.545)" fill="#4866e6" opacity="0.5"/>
+        <rect id="Rechteck_85" data-name="Rechteck 85" width="49.004" height="3.739" transform="translate(65.137 184.497)" fill="#e0e0e0"/>
+        <rect id="Rechteck_86" data-name="Rechteck 86" width="127.912" height="3.739" transform="translate(65.137 177.019)" fill="#e0e0e0"/>
+        <rect id="Rechteck_87" data-name="Rechteck 87" width="49.004" height="3.739" transform="translate(65.137 205.677)" fill="#4866e6" opacity="0.5"/>
+        <rect id="Rechteck_88" data-name="Rechteck 88" width="49.004" height="3.739" transform="translate(65.137 220.626)" fill="#e0e0e0"/>
+        <rect id="Rechteck_89" data-name="Rechteck 89" width="104.857" height="3.739" transform="translate(65.137 213.151)" fill="#e0e0e0"/>
+        <path id="Pfad_74" data-name="Pfad 74" d="M244.266,169.713H155V91.777L158.09,88h86.176Z" transform="translate(-101.783 -57.787)" fill="#4866e6"/>
+        <path id="Pfad_75" data-name="Pfad 75" d="M109.91,80.43H140.5V48.5Z" transform="translate(-72.174 -31.848)" fill="url(#linear-gradient-2)"/>
+        <path id="Pfad_76" data-name="Pfad 76" d="M111.91,81.057h29.214V50.5Z" transform="translate(-73.488 -33.162)" fill="#fcfcfc"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 97, 2285)" filter="url(#Linie_4)">
+      <line id="Linie_4-2" data-name="Linie 4" x2="339" transform="translate(254.5 696.5)" fill="none" stroke="#4866e6" stroke-width="4"/>
+    </g>
+    <g id="Gruppe_16" data-name="Gruppe 16" transform="translate(844 -10)">
+      <g transform="matrix(1, 0, 0, 1, -747, 2295)" filter="url(#Rechteck_15-3)">
+        <rect id="Rechteck_15-7" data-name="Rechteck 15" width="390" height="775" rx="40" transform="translate(888 9)" fill="#fff"/>
+      </g>
+      <g id="Gruppe_10-3" data-name="Gruppe 10" transform="translate(283.18 2938)">
+        <g transform="matrix(1, 0, 0, 1, -1030.18, -643)" filter="url(#Ellipse_21-3)">
+          <g id="Ellipse_21-7" data-name="Ellipse 21" transform="translate(1030 643)" fill="none" stroke="#4866e6" stroke-width="4">
+            <circle cx="53" cy="53" r="53" stroke="none"/>
+            <circle cx="53" cy="53" r="51" fill="none"/>
+          </g>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -1030.18, -643)" filter="url(#_3)">
+          <text id="_3-2" data-name="3" transform="translate(1071 713)" fill="#4866e6" font-size="44" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">3</tspan></text>
+        </g>
+      </g>
+      <g id="Gruppe_11-3" data-name="Gruppe 11" transform="translate(179.36 2739)">
+        <text id="We_will_analyze_your_shopping_behaviour" data-name="We will analyze
+your shopping
+behaviour" transform="translate(161.64 45)" fill="#3f3d56" font-size="40" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="-140.82" y="0">We will analyze</tspan><tspan x="-132.64" y="49">your shopping</tspan><tspan x="-91.52" y="98">behaviour</tspan></text>
+      </g>
+      <g id="undraw_goals_w8tw" transform="translate(189.551 2412)">
+        <rect id="Rechteck_90" data-name="Rechteck 90" width="228.768" height="11.611" transform="translate(105.394 0) rotate(30.649)" fill="#f2f2f2"/>
+        <rect id="Rechteck_91" data-name="Rechteck 91" width="228.768" height="11.611" transform="translate(62.618 9.777) rotate(30.649)" fill="#f2f2f2"/>
+        <rect id="Rechteck_92" data-name="Rechteck 92" width="228.768" height="11.611" transform="translate(24.73 20.471) rotate(30.649)" fill="#f2f2f2"/>
+        <circle id="Ellipse_28" data-name="Ellipse 28" cx="61.619" cy="61.619" r="61.619" transform="translate(112.392 13.471)" fill="#3f3d56"/>
+        <path id="Pfad_77" data-name="Pfad 77" d="M650.01,377.484A10.984,10.984,0,1,1,660.994,366.5,10.984,10.984,0,0,1,650.01,377.484Zm0-21.433A10.448,10.448,0,1,0,660.459,366.5,10.448,10.448,0,0,0,650.01,356.051Z" transform="translate(-476 -291.142)" fill="#4866e6" opacity="0.3"/>
+        <path id="Pfad_78" data-name="Pfad 78" d="M627.48,364.866a20.9,20.9,0,1,1,20.9-20.9A20.9,20.9,0,0,1,627.48,364.866Zm0-41.258a20.361,20.361,0,1,0,20.361,20.361A20.361,20.361,0,0,0,627.48,323.609Z" transform="translate(-453.47 -268.612)" fill="#4866e6" opacity="0.3"/>
+        <path id="Pfad_79" data-name="Pfad 79" d="M608,353.954a29.47,29.47,0,1,1,29.47-29.47A29.47,29.47,0,0,1,608,353.954Zm0-58.4a28.934,28.934,0,1,0,28.934,28.934A28.934,28.934,0,0,0,608,295.551Z" transform="translate(-433.985 -249.127)" fill="#4866e6" opacity="0.3"/>
+        <path id="Pfad_80" data-name="Pfad 80" d="M582.421,339.632a40.722,40.722,0,1,1,40.722-40.722A40.768,40.768,0,0,1,582.421,339.632Zm0-80.908a40.186,40.186,0,1,0,40.186,40.186A40.232,40.232,0,0,0,582.421,258.724Z" transform="translate(-408.41 -223.552)" fill="#4866e6" opacity="0.3"/>
+        <path id="Pfad_81" data-name="Pfad 81" d="M561.109,327.7a50.1,50.1,0,1,1,50.1-50.1A50.155,50.155,0,0,1,561.109,327.7Zm0-99.661A49.563,49.563,0,1,0,610.672,277.6,49.619,49.619,0,0,0,561.109,228.035Z" transform="translate(-387.098 -202.241)" fill="#4866e6" opacity="0.3"/>
+        <circle id="Ellipse_29" data-name="Ellipse 29" cx="5.09" cy="5.09" r="5.09" transform="translate(168.92 70)" fill="#4866e6" opacity="0.3"/>
+        <circle id="Ellipse_30" data-name="Ellipse 30" cx="5.09" cy="5.09" r="5.09" transform="translate(182.048 84.734)" fill="#4866e6" opacity="0.3"/>
+        <circle id="Ellipse_31" data-name="Ellipse 31" cx="5.09" cy="5.09" r="5.09" transform="translate(146.416 82.591)" fill="#4866e6" opacity="0.3"/>
+        <circle id="Ellipse_32" data-name="Ellipse 32" cx="2.411" cy="2.411" r="2.411" transform="translate(171.599 72.679)" fill="#2f2e41"/>
+        <circle id="Ellipse_33" data-name="Ellipse 33" cx="2.411" cy="2.411" r="2.411" transform="translate(149.095 85.27)" fill="#2f2e41"/>
+        <circle id="Ellipse_34" data-name="Ellipse 34" cx="2.411" cy="2.411" r="2.411" transform="translate(184.727 87.681)" fill="#2f2e41"/>
+        <circle id="Ellipse_35" data-name="Ellipse 35" cx="2.411" cy="2.411" r="2.411" transform="translate(284.12 45.62)" fill="#4866e6"/>
+        <path id="Pfad_82" data-name="Pfad 82" d="M568.731,183.476H568.2V155.882H674.554v.536H568.731Z" transform="translate(-394.586 -108.253)" fill="#2f2e41"/>
+        <path id="Pfad_83" data-name="Pfad 83" d="M1027.408,293.163a6.966,6.966,0,1,1,6.965-6.966A6.966,6.966,0,0,1,1027.408,293.163Zm0-13.4a6.43,6.43,0,1,0,6.43,6.43A6.43,6.43,0,0,0,1027.408,279.768Z" transform="translate(-740.877 -238.166)" fill="#2f2e41"/>
+        <circle id="Ellipse_36" data-name="Ellipse 36" cx="2.411" cy="2.411" r="2.411" transform="translate(268.046 115.008)" fill="#4866e6"/>
+        <path id="Pfad_84" data-name="Pfad 84" d="M974.8,520.259a6.966,6.966,0,1,1,6.966-6.966A6.966,6.966,0,0,1,974.8,520.259Zm0-13.4a6.43,6.43,0,1,0,6.43,6.43,6.43,6.43,0,0,0-6.43-6.43Z" transform="translate(-704.342 -395.875)" fill="#2f2e41"/>
+        <circle id="Ellipse_37" data-name="Ellipse 37" cx="2.411" cy="2.411" r="2.411" transform="translate(74.349 56.872)" fill="#4866e6"/>
+        <path id="Pfad_85" data-name="Pfad 85" d="M340.858,329.989a6.966,6.966,0,1,1,6.966-6.966A6.966,6.966,0,0,1,340.858,329.989Zm0-13.4a6.43,6.43,0,1,0,6.43,6.43A6.43,6.43,0,0,0,340.858,316.594Z" transform="translate(-264.098 -263.741)" fill="#2f2e41"/>
+        <path id="Pfad_86" data-name="Pfad 86" d="M341.453,221.813h-.536V194.75l-67.785-1.068.008-.536,68.312,1.076Z" transform="translate(-189.678 -134.132)" fill="#2f2e41"/>
+        <path id="Pfad_87" data-name="Pfad 87" d="M688.487,322.452H611.6V294.858h.536v27.059h76.353Z" transform="translate(-424.728 -204.765)" fill="#2f2e41"/>
+        <rect id="Rechteck_93" data-name="Rechteck 93" width="29.47" height="1.875" transform="translate(271.797 60.623)" fill="#2f2e41"/>
+        <rect id="Rechteck_94" data-name="Rechteck 94" width="29.47" height="1.875" transform="translate(271.797 65.981)" fill="#2f2e41"/>
+        <rect id="Rechteck_95" data-name="Rechteck 95" width="29.47" height="1.875" transform="translate(271.797 71.339)" fill="#2f2e41"/>
+        <rect id="Rechteck_96" data-name="Rechteck 96" width="29.47" height="1.875" transform="translate(255.722 130.011)" fill="#2f2e41"/>
+        <rect id="Rechteck_97" data-name="Rechteck 97" width="29.47" height="1.875" transform="translate(255.722 135.369)" fill="#2f2e41"/>
+        <rect id="Rechteck_98" data-name="Rechteck 98" width="29.47" height="1.875" transform="translate(255.722 140.727)" fill="#2f2e41"/>
+        <rect id="Rechteck_99" data-name="Rechteck 99" width="29.47" height="1.875" transform="translate(62.025 72.143)" fill="#2f2e41"/>
+        <rect id="Rechteck_100" data-name="Rechteck 100" width="29.47" height="1.875" transform="translate(62.025 77.501)" fill="#2f2e41"/>
+        <rect id="Rechteck_101" data-name="Rechteck 101" width="29.47" height="1.875" transform="translate(62.025 82.859)" fill="#2f2e41"/>
+        <ellipse id="Ellipse_38" data-name="Ellipse 38" cx="58.672" cy="1.875" rx="58.672" ry="1.875" transform="translate(117.75 173.949)" fill="#f2f2f2"/>
+        <rect id="Rechteck_102" data-name="Rechteck 102" width="197.992" height="0.611" transform="translate(0 185.874)" fill="#2f2e41"/>
+        <path id="Pfad_88" data-name="Pfad 88" d="M179.456,322.778s2.8,7.982,1.079,9.21,5.825,11.257,5.825,11.257l9.061-2.456-4.962-8.391s-.647-8.391-.647-9.619S179.456,322.778,179.456,322.778Z" transform="translate(-156.849 -268.028)" fill="#ffb8b8"/>
+        <path id="Pfad_89" data-name="Pfad 89" d="M179.456,322.778s2.8,7.982,1.079,9.21,5.825,11.257,5.825,11.257l9.061-2.456-4.962-8.391s-.647-8.391-.647-9.619S179.456,322.778,179.456,322.778Z" transform="translate(-156.849 -268.028)" opacity="0.1"/>
+        <path id="Pfad_90" data-name="Pfad 90" d="M163.223,496.512s-.819,10.233,0,15.555,2.047,20.057,2.047,20.057,0,27.834,4.5,28.244,7.777.819,8.187-.819-2.047-2.456-.819-3.275,1.637-3.684,0-6.959,0-36.43,0-36.43l7.777,20.876s.819,17.192,1.637,19.648-.819,6.959,2.047,7.368,6.14-2.047,7.777-2.865-2.456-.819-1.637-1.228,3.275-1.637,2.456-2.047-1.637-20.057-1.637-20.057-2.251-41.956-5.117-43.594-4.707,1.183-4.707,1.183Z" transform="translate(-145.323 -384.866)" fill="#2f2e41"/>
+        <path id="Pfad_91" data-name="Pfad 91" d="M184.443,713.865v3.275s-3.684,8.9,0,8.9,6.549.922,6.549-.306V714.683Z" transform="translate(-159.174 -540)" fill="#2f2e41"/>
+        <path id="Pfad_92" data-name="Pfad 92" d="M252.319,713.846v3.275s3.684,8.9,0,8.9-6.549.922-6.549-.306V714.664Z" transform="translate(-202.901 -539.986)" fill="#2f2e41"/>
+        <circle id="Ellipse_39" data-name="Ellipse 39" cx="7.368" cy="7.368" r="7.368" transform="translate(20.97 45.949)" fill="#ffb8b8"/>
+        <path id="Pfad_93" data-name="Pfad 93" d="M188.983,364.209s2.047,6.14,5.321,4.912l3.275-1.228,5.731,39.3s-4.5,6.549-11.052,2.456S188.983,364.209,188.983,364.209Z" transform="translate(-162.896 -297.179)" fill="#d0cde1"/>
+        <path id="Pfad_94" data-name="Pfad 94" d="M209.6,351.352l1.842-3.889s10.847,5.117,12.485,6.754a6.393,6.393,0,0,1,1.637,4.093L222.7,368.544s.819,22.513.819,23.332,2.865,5.321.819,3.684-2.456-3.275-4.093-.819a30.024,30.024,0,0,1-5.321,5.321Z" transform="translate(-177.781 -285.55)" fill="#3f3d56"/>
+        <path id="Pfad_95" data-name="Pfad 95" d="M240.132,456.647,238.9,468.108s-7.368,6.549-5.731,6.959a2.265,2.265,0,0,0,2.456-1.228s2.865,2.865,4.5,1.228,5.731-17.192,5.731-17.192Z" transform="translate(-193.988 -361.373)" fill="#ffb8b8"/>
+        <path id="Pfad_96" data-name="Pfad 96" d="M179.3,285.193a8.194,8.194,0,0,0-4.759.793,6.966,6.966,0,0,0-1.645,1.61c-1.341,1.7-2.5,3.829-2,5.933l.579-.226a3.789,3.789,0,0,1-.365,1.623c.081-.237.354.146.281.386l-.637,2.091a1.969,1.969,0,0,1,2.511,1.5c.073-2.429.325-5.214,2.3-6.637a7.939,7.939,0,0,1,3.461-1.131,6.963,6.963,0,0,1,3.355.017,2.414,2.414,0,0,1,1.737,2.565,1.143,1.143,0,0,1,1.288.635,3.334,3.334,0,0,1,.264,1.526c.525.371,1.124-.366,1.338-.973a8.782,8.782,0,0,0,.679-4.426,3.376,3.376,0,0,0-2.992-2.911,1.049,1.049,0,0,0,.273-.738l-1.245-.105a1.376,1.376,0,0,0,.822-.433C184.035,286.84,180.105,285.222,179.3,285.193Z" transform="translate(-150.802 -242.289)" fill="#2f2e41"/>
+        <path id="Pfad_97" data-name="Pfad 97" d="M159.369,349.184s-3.332-3.265-4.531-3.065S152,349.184,152,349.184s-9.824,3.275-9.415,6.549,4.912,19.239,4.912,19.239,3.684,19.238.409,21.285,15.555,7.368,15.964,4.912,1.228-27.016,0-30.7S159.369,349.184,159.369,349.184Z" transform="translate(-131.236 -284.61)" fill="#3f3d56"/>
+        <path id="Pfad_98" data-name="Pfad 98" d="M154.672,460.444,160.4,462.9s11.052,1.637,11.052-2.865-11.052-2.047-11.052-2.047l-3.684-1.178Z" transform="translate(-139.637 -361.487)" fill="#ffb8b8"/>
+        <path id="Pfad_99" data-name="Pfad 99" d="M244.43,377.606h5.061s3.535,15.555,3.944,17.192,1.228,9.415.819,9.415-8.6-1.637-8.6-.409Z" transform="translate(-201.97 -306.483)" fill="#3f3d56"/>
+        <path id="Pfad_100" data-name="Pfad 100" d="M138.324,369.568l-4.912,1.228-3.684,21.694s-1.228,5.731.819,6.14,7.777,3.684,7.777,3.684.819-6.14,2.456-6.14l-4.093-3.275,2.456-14.327Z" transform="translate(-122.061 -300.901)" fill="#3f3d56"/>
+        <path id="Pfad_101" data-name="Pfad 101" d="M596.409,696.112h-7.944v-7.944h7.944Zm-7.333-.611H595.8v-6.722h-6.722Z" transform="translate(-440.887 -522.155)" fill="#3f3d56"/>
+        <circle id="Ellipse_40" data-name="Ellipse 40" cx="3.055" cy="3.055" r="3.055" transform="translate(157.355 167.847)" fill="#4866e6"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 97, 2285)" filter="url(#Linie_5)">
+      <line id="Linie_5-2" data-name="Linie 5" x2="339" transform="translate(693.5 696.5)" fill="none" stroke="#4866e6" stroke-width="4"/>
+    </g>
+    <g id="Gruppe_17" data-name="Gruppe 17" transform="translate(1284 -10)">
+      <g transform="matrix(1, 0, 0, 1, -1187, 2295)" filter="url(#Rechteck_15-4)">
+        <rect id="Rechteck_15-8" data-name="Rechteck 15" width="390" height="775" rx="40" transform="translate(1328 9)" fill="#fff"/>
+      </g>
+      <g id="Gruppe_10-4" data-name="Gruppe 10" transform="translate(283.18 2938)">
+        <g transform="matrix(1, 0, 0, 1, -1470.18, -643)" filter="url(#Ellipse_21-4)">
+          <g id="Ellipse_21-8" data-name="Ellipse 21" transform="translate(1470 643)" fill="none" stroke="#4866e6" stroke-width="4">
+            <circle cx="53" cy="53" r="53" stroke="none"/>
+            <circle cx="53" cy="53" r="51" fill="none"/>
+          </g>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -1470.18, -643)" filter="url(#_4)">
+          <text id="_4-2" data-name="4" transform="translate(1511 713)" fill="#4866e6" font-size="44" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">4</tspan></text>
+        </g>
+      </g>
+      <g id="undraw_done_checking_ty9a" transform="translate(181.806 2360.004)">
+        <rect id="Rechteck_103" data-name="Rechteck 103" width="68.651" height="51.737" transform="translate(67.757 142.461) rotate(33.995)" fill="#f2f2f2"/>
+        <path id="Pfad_102" data-name="Pfad 102" d="M198.4,591.048l-.589-.3c7.655-14.8,3.562-34.019-1.22-47.536a145.687,145.687,0,0,0-12.363-26.092l.561-.354a146.435,146.435,0,0,1,12.428,26.225C202.04,556.627,206.162,576.038,198.4,591.048Z" transform="translate(-161.622 -373.302)" fill="#2f2e41"/>
+        <rect id="Rechteck_104" data-name="Rechteck 104" width="23.939" height="0.663" transform="translate(38.149 167.125) rotate(-79.645)" fill="#2f2e41"/>
+        <rect id="Rechteck_105" data-name="Rechteck 105" width="0.664" height="32.618" transform="matrix(0.732, -0.681, 0.681, 0.732, 13.355, 164.092)" fill="#2f2e41"/>
+        <rect id="Rechteck_106" data-name="Rechteck 106" width="19.239" height="0.663" transform="matrix(0.586, -0.81, 0.81, 0.586, 42.516, 205.462)" fill="#2f2e41"/>
+        <circle id="Ellipse_41" data-name="Ellipse 41" cx="3.316" cy="3.316" r="3.316" transform="translate(41.124 130.701)" fill="#3f3d56"/>
+        <circle id="Ellipse_42" data-name="Ellipse 42" cx="3.316" cy="3.316" r="3.316" transform="translate(4.975 156.238)" fill="#3f3d56"/>
+        <circle id="Ellipse_43" data-name="Ellipse 43" cx="3.316" cy="3.316" r="3.316" transform="translate(19.567 159.555)" fill="#3f3d56"/>
+        <circle id="Ellipse_44" data-name="Ellipse 44" cx="3.316" cy="3.316" r="3.316" transform="translate(12.934 172.489)" fill="#3f3d56"/>
+        <circle id="Ellipse_45" data-name="Ellipse 45" cx="3.316" cy="3.316" r="3.316" transform="translate(54.39 180.78)" fill="#3f3d56"/>
+        <circle id="Ellipse_46" data-name="Ellipse 46" cx="3.316" cy="3.316" r="3.316" transform="translate(43.446 184.428)" fill="#3f3d56"/>
+        <circle id="Ellipse_47" data-name="Ellipse 47" cx="3.316" cy="3.316" r="3.316" transform="translate(51.074 195.041)" fill="#3f3d56"/>
+        <circle id="Ellipse_48" data-name="Ellipse 48" cx="3.316" cy="3.316" r="3.316" transform="translate(16.251 134.681)" fill="#3f3d56"/>
+        <path id="Pfad_103" data-name="Pfad 103" d="M285.875,748.015c7.035,7.542-.6,33.911-84.9,14.261-45.666-10.645-84.9-10.414-84.9-14.261s38.012.332,84.9.332S283.252,745.2,285.875,748.015Z" transform="translate(-116.071 -526.774)" fill="#3f3d56"/>
+        <path id="Pfad_104" data-name="Pfad 104" d="M285.875,748.015c7.035,7.542-.6,33.911-84.9,14.261-45.666-10.645-84.9-10.414-84.9-14.261s38.012.332,84.9.332S283.252,745.2,285.875,748.015Z" transform="translate(-116.071 -526.774)" opacity="0.1"/>
+        <path id="Pfad_105" data-name="Pfad 105" d="M285.875,737.259c7.035,7.542-.6,26.614-84.9,6.965-45.666-10.645-84.9-3.118-84.9-6.965s38.012-6.965,84.9-6.965S283.252,734.447,285.875,737.259Z" transform="translate(-116.071 -516.018)" fill="#3f3d56"/>
+        <path id="Pfad_106" data-name="Pfad 106" d="M227.317,159.1h3.815a9.158,9.158,0,0,1,9.158,9.158v12.972h-22.13V168.259a9.158,9.158,0,0,1,9.158-9.158Z" transform="translate(-145.807 -106.338)" fill="#2f2e41"/>
+        <path id="Pfad_107" data-name="Pfad 107" d="M346.977,294.007s.928,7.423-1.16,7.887-3.016,3.247-3.016,3.247l6.959,4.407,7.191-1.392-.7-5.335s-1.856-5.335-.928-8.815S346.977,294.007,346.977,294.007Z" transform="translate(-267.606 -223.391)" fill="#a0616a"/>
+        <path id="Pfad_108" data-name="Pfad 108" d="M346.977,294.007s.928,7.423-1.16,7.887-3.016,3.247-3.016,3.247l6.959,4.407,7.191-1.392-.7-5.335s-1.856-5.335-.928-8.815S346.977,294.007,346.977,294.007Z" transform="translate(-267.606 -223.391)" opacity="0.1"/>
+        <path id="Pfad_109" data-name="Pfad 109" d="M327.414,553.8l1.856,12.062s-.464,12.294,2.784,23.2l3.247,10.9,3.247-3.711.928-14.846a43.572,43.572,0,0,0-.7-9.511l.7-19.485Z" transform="translate(-257.322 -397.131)" fill="#a0616a"/>
+        <path id="Pfad_110" data-name="Pfad 110" d="M379.171,546.9,380.8,568.01s-.7,22.5-.928,23.2,4.639,1.624,4.639,1.624,7.423-17.629,5.1-31.547c0,0-1.392-11.83.464-14.846S379.171,546.9,379.171,546.9Z" transform="translate(-291.914 -392.315)" fill="#a0616a"/>
+        <circle id="Ellipse_49" data-name="Ellipse 49" cx="8.119" cy="8.119" r="8.119" transform="translate(75.195 58.089)" fill="#a0616a"/>
+        <path id="Pfad_111" data-name="Pfad 111" d="M308.9,324.329s.928,3.479,5.335,3.247a8.358,8.358,0,0,0,6.495-4.175s5.335,2.784,7.887,2.552l-.7,11.366s-4.407,12.062-3.479,14.846,19.717,32.011,17.4,43.377c0,0,2.32,3.247-6.495,3.943s-8.583-.928-15.774,2.32-17.165,1.392-19.485.928-10.438-1.856-10.438-1.856,1.856-34.331,12.526-45.929l-.232-20.877-.928-7.887s7.484-3.711,7.686-2.784Z" transform="translate(-232.079 -243.971)" fill="#2f2e41"/>
+        <path id="Pfad_112" data-name="Pfad 112" d="M402.925,373.36s11.83,7.423,7.191,10.438-21.2,10.615-21.2,10.615-12.664-5.976-9.417-8.3,8.815,4.175,8.815,4.175l14.382-8.583-3.711-4.175Z" transform="translate(-291.776 -277.461)" fill="#a0616a"/>
+        <path id="Pfad_113" data-name="Pfad 113" d="M305.454,392.245v33.867s-1.16,12.99,3.247,12.062.928-12.526.928-12.526l1.392-19.949V394.564Z" transform="translate(-242.553 -290.082)" fill="#a0616a"/>
+        <path id="Pfad_114" data-name="Pfad 114" d="M350,667.818s-2.088,4.407-6.495,1.856a38.219,38.219,0,0,1,1.16,4.871c0,.928,1.16,5.8,1.624,6.263s0,10.67,2.32,11.134,4.407-5.335,4.407-7.423-.7-8.815-.7-8.815.464-4.407-2.088-5.8Z" transform="translate(-268.074 -474.262)" fill="#2f2e41"/>
+        <path id="Pfad_115" data-name="Pfad 115" d="M371.127,681.336l-6.495-.928-1.392,5.567s-3.711,9.974-3.943,11.6-4.407,8.351-.7,8.351,7.423.232,8.119-1.856,2.088-9.279,3.247-11.83a5.844,5.844,0,0,0-.464-5.1Z" transform="translate(-277.143 -482.676)" fill="#2f2e41"/>
+        <path id="Pfad_116" data-name="Pfad 116" d="M400.854,332.323l2.088-.928s2.088,0,5.335,3.711,11.83,11.134,11.83,11.134-5.8,5.8-7.191,5.335-12.062-10.67-12.062-10.67Z" transform="translate(-306.406 -249.413)" fill="#2f2e41"/>
+        <path id="Pfad_117" data-name="Pfad 117" d="M309.135,332.094h-1.16s-4.871.464-5.567,6.495-1.856,13.222-2.32,13.918,6.031,3.711,7.191,3.711,3.016-18.093,3.016-18.093Z" transform="translate(-239.044 -249.881)" fill="#2f2e41"/>
+        <path id="Pfad_118" data-name="Pfad 118" d="M241.789,176.79H230.615l-2.529-5.814h15.6Z" transform="translate(-152.441 -114.274)" fill="#2f2e41"/>
+        <ellipse id="Ellipse_50" data-name="Ellipse 50" cx="0.563" cy="1.5" rx="0.563" ry="1.5" transform="translate(74.173 64.045) rotate(-16.16)" fill="#a0616a"/>
+        <ellipse id="Ellipse_51" data-name="Ellipse 51" cx="1.5" cy="0.563" rx="1.5" ry="0.563" transform="translate(90.326 67.077) rotate(-73.84)" fill="#a0616a"/>
+        <rect id="Rechteck_107" data-name="Rechteck 107" width="146.589" height="84.239" transform="translate(192.715 -0.004) rotate(28.948)" fill="#f2f2f2"/>
+        <rect id="Rechteck_108" data-name="Rechteck 108" width="48.752" height="64.008" transform="translate(148.871 60.213)" fill="#4866e6"/>
+        <rect id="Rechteck_109" data-name="Rechteck 109" width="21.889" height="21.889" transform="translate(162.302 70.328)" fill="#3f3d56"/>
+        <rect id="Rechteck_110" data-name="Rechteck 110" width="38.471" height="2.653" transform="translate(154.011 96.86)" fill="#3f3d56"/>
+        <rect id="Rechteck_111" data-name="Rechteck 111" width="38.471" height="2.653" transform="translate(154.011 104.156)" fill="#3f3d56"/>
+        <rect id="Rechteck_112" data-name="Rechteck 112" width="38.471" height="2.653" transform="translate(154.011 111.452)" fill="#3f3d56"/>
+        <rect id="Rechteck_113" data-name="Rechteck 113" width="48.752" height="64.008" transform="translate(252.345 116.261)" fill="#4866e6"/>
+        <rect id="Rechteck_114" data-name="Rechteck 114" width="34.492" height="3.98" transform="translate(259.476 124.718)" fill="#3f3d56"/>
+        <rect id="Rechteck_115" data-name="Rechteck 115" width="34.492" height="3.98" transform="translate(259.476 133.341)" fill="#3f3d56"/>
+        <rect id="Rechteck_116" data-name="Rechteck 116" width="34.492" height="3.98" transform="translate(259.476 141.964)" fill="#3f3d56"/>
+        <rect id="Rechteck_117" data-name="Rechteck 117" width="34.492" height="3.98" transform="translate(259.476 150.587)" fill="#3f3d56"/>
+        <rect id="Rechteck_118" data-name="Rechteck 118" width="34.492" height="3.98" transform="translate(259.476 159.21)" fill="#3f3d56"/>
+        <rect id="Rechteck_119" data-name="Rechteck 119" width="34.492" height="3.98" transform="translate(259.476 167.833)" fill="#3f3d56"/>
+        <rect id="Rechteck_120" data-name="Rechteck 120" width="48.752" height="64.008" transform="translate(238.084 8.475)" fill="#4866e6"/>
+        <rect id="Rechteck_121" data-name="Rechteck 121" width="34.492" height="3.98" transform="translate(245.215 29.867)" fill="#3f3d56"/>
+        <rect id="Rechteck_122" data-name="Rechteck 122" width="34.492" height="3.98" transform="translate(245.215 38.49)" fill="#3f3d56"/>
+        <rect id="Rechteck_123" data-name="Rechteck 123" width="34.492" height="3.98" transform="translate(245.215 47.113)" fill="#3f3d56"/>
+        <ellipse id="Ellipse_52" data-name="Ellipse 52" cx="5.887" cy="5.898" rx="5.887" ry="5.898" transform="translate(280.006 2.511)" fill="#fff"/>
+        <path id="Pfad_119" data-name="Pfad 119" d="M963.926,88.74a7.036,7.036,0,1,0,7.036,7.036A7.036,7.036,0,0,0,963.926,88.74Zm-1.444,10.788-3.606-3.606,1.011-1.011,2.6,2.6,5.483-5.483,1.011,1.011-6.5,6.491Z" transform="translate(-678.033 -87.234)" fill="#57b894"/>
+        <ellipse id="Ellipse_53" data-name="Ellipse 53" cx="5.887" cy="5.898" rx="5.887" ry="5.898" transform="translate(295.262 108.97)" fill="#fff"/>
+        <path id="Pfad_120" data-name="Pfad 120" d="M1009.926,409.74a7.036,7.036,0,1,0,7.036,7.036A7.036,7.036,0,0,0,1009.926,409.74Zm-1.444,10.787-3.606-3.606,1.011-1.011,2.6,2.6,5.483-5.483,1.011,1.011Z" transform="translate(-708.777 -301.775)" fill="#57b894"/>
+        <ellipse id="Ellipse_54" data-name="Ellipse 54" cx="5.887" cy="5.898" rx="5.887" ry="5.898" transform="translate(191.787 53.584)" fill="#fff"/>
+        <path id="Pfad_121" data-name="Pfad 121" d="M697.926,242.74a7.036,7.036,0,1,0,7.036,7.036A7.036,7.036,0,0,0,697.926,242.74Zm-1.444,10.788-3.606-3.606,1.011-1.011,2.6,2.6,5.483-5.483,1.011,1.011Z" transform="translate(-500.252 -190.16)" fill="#57b894"/>
+      </g>
+      <text id="Get_your_shopping_list_for_the_next_shopping_trip" data-name="Get your shopping list for the next shopping trip" transform="translate(155 2752)" fill="#3f3d56" font-size="35" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="3.025" y="34">Get your shopping list </tspan><tspan x="8.223" y="77">for the next shopping </tspan><tspan x="154.103" y="120">trip</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 97, 2285)" filter="url(#Pfad_122)">
+      <path id="Pfad_122-2" data-name="Pfad 122" d="M0,0H339" transform="translate(1133.5 696.5)" fill="none" stroke="#4866e6" stroke-width="4"/>
+    </g>
+  </g>
+</svg>
